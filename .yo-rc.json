@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.leshchyshyn.edx"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "edx_clone",
+    "packageName": "com.leshchyshyn.edx",
+    "packageFolder": "com/leshchyshyn/edx",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2NhZWMyZGVjOWFiYzc3MzNmMzMzOTlhYTc2ZjU4NTY0ZjIwMzc2NzlkYzExYTFlNjM0OWJjZmI1Yzc4OTM2NjZiOTdkYWJlMDZkYjAyOTIxZDk1YzNmZmM3ZTdjMmEyOTNkYWNkZjUxYWFlMzI2OGU0Njc4MTEwZWFmZWFjOTg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "journal",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1585516274225,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
